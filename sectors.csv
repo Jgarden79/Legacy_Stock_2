@@ -1,0 +1,2453 @@
+,Instrument,GICS Sector Name
+0,ALRM.OQ,Information Technology
+1,UAVS.A,Industrials
+2,VUZI.OQ,Consumer Discretionary
+3,TRTN.N,Industrials
+4,UPLD.OQ,Information Technology
+5,IDEX.OQ,Information Technology
+6,MARA.OQ,Information Technology
+7,FN.N,Information Technology
+8,CYRX.OQ,Health Care
+9,IBRX.OQ,Health Care
+10,MMAT.OQ,Energy
+11,DXPE.OQ,Industrials
+12,SYY.N,Consumer Staples
+13,JKHY.OQ,Information Technology
+14,HD.N,Consumer Discretionary
+15,URBN.OQ,Consumer Discretionary
+16,AAP.N,Consumer Discretionary
+17,TJX.N,Consumer Discretionary
+18,DKS.N,Consumer Discretionary
+19,OSIS.OQ,Information Technology
+20,COTY.N,Consumer Staples
+21,CREE.OQ,Information Technology
+22,HIFS.OQ,Financials
+23,SNPS.OQ,Information Technology
+24,TECH.OQ,Health Care
+25,LB.N,Consumer Discretionary
+26,PLCE.OQ,Consumer Discretionary
+27,KEYS.N,Information Technology
+28,TGT.N,Consumer Discretionary
+29,A.N,Health Care
+30,SPTN.OQ,Consumer Staples
+31,AEO.N,Consumer Discretionary
+32,ARAY.OQ,Health Care
+33,CTRN.OQ,Consumer Discretionary
+34,LOW.N,Consumer Discretionary
+35,CSCO.OQ,Information Technology
+36,ADI.OQ,Information Technology
+37,NTAP.OQ,Information Technology
+38,HRL.N,Consumer Staples
+39,AMAT.OQ,Information Technology
+40,SPWH.OQ,Consumer Discretionary
+41,CRMT.OQ,Consumer Discretionary
+42,GPS.N,Consumer Discretionary
+43,PLAB.OQ,Information Technology
+44,ROST.OQ,Consumer Discretionary
+45,ATGE.N,Consumer Discretionary
+46,WMT.N,Consumer Staples
+47,MSGN.N,Communication Services
+48,CATO.N,Consumer Discretionary
+49,TTC.N,Industrials
+50,LANC.OQ,Consumer Staples
+51,BKE.N,Consumer Discretionary
+52,HIBB.OQ,Consumer Discretionary
+53,EL.N,Consumer Staples
+54,DE.N,Industrials
+55,FL.N,Consumer Discretionary
+56,NDSN.OQ,Industrials
+57,PINC.OQ,Health Care
+58,INTU.OQ,Information Technology
+59,BBY.N,Consumer Discretionary
+60,DY.N,Industrials
+61,AMWD.OQ,Industrials
+62,LZB.N,Consumer Discretionary
+63,TOL.N,Consumer Discretionary
+64,RAVN.OQ,Industrials
+65,SJM.N,Consumer Staples
+66,HPQ.N,Information Technology
+67,WSM.N,Consumer Discretionary
+68,WDAY.OQ,Information Technology
+69,JBSS.OQ,Consumer Staples
+70,TLYS.N,Consumer Discretionary
+71,CACI.N,Industrials
+72,GES.N,Consumer Discretionary
+73,PVH.N,Consumer Discretionary
+74,DLTR.OQ,Consumer Discretionary
+75,AMSWA.OQ,Information Technology
+76,ADSK.OQ,Information Technology
+77,PDCO.OQ,Health Care
+78,DG.N,Consumer Discretionary
+79,MOV.N,Consumer Discretionary
+80,SAFM.OQ,Consumer Staples
+81,REX.N,Energy
+82,ULTA.OQ,Consumer Discretionary
+83,SPLK.OQ,Information Technology
+84,BURL.N,Consumer Discretionary
+85,SIG.N,Consumer Discretionary
+86,TITN.OQ,Industrials
+87,GME.N,Consumer Discretionary
+88,EPAY.OQ,Information Technology
+89,QADA.OQ,Information Technology
+90,MDT.N,Health Care
+91,SXI.N,Industrials
+92,HEI.N,Industrials
+93,BIG.N,Consumer Discretionary
+94,HEIa.N,Industrials
+95,AOSL.OQ,Information Technology
+96,SCSC.OQ,Information Technology
+97,CTLT.N,Health Care
+98,PAHC.OQ,Health Care
+99,AVAV.OQ,Industrials
+100,HRB.N,Consumer Discretionary
+101,CHS.N,Consumer Discretionary
+102,OOMA.N,Communication Services
+103,DBI.N,Consumer Discretionary
+104,CAL.N,Consumer Discretionary
+105,CNR.N,Industrials
+106,GIII.OQ,Consumer Discretionary
+107,VEEV.N,Health Care
+108,PANW.N,Information Technology
+109,ANF.N,Consumer Discretionary
+110,FIVE.OQ,Consumer Discretionary
+111,OXM.N,Consumer Discretionary
+112,GEF.N,Materials
+113,CRM.N,Information Technology
+114,BOX.N,Information Technology
+115,GLNG.OQ,Energy
+116,BFa.N,Consumer Staples
+117,SCVL.OQ,Consumer Discretionary
+118,GEFb.N,Materials
+119,BFb.N,Consumer Staples
+120,SMTC.OQ,Information Technology
+121,LULU.OQ,Consumer Discretionary
+122,ITRI.OQ,Information Technology
+123,MEI.N,Information Technology
+124,CPB.N,Consumer Staples
+125,GCO.N,Consumer Discretionary
+126,LE.OQ,Consumer Discretionary
+127,SWBI.OQ,Consumer Discretionary
+128,OLLI.OQ,Consumer Discretionary
+129,CIEN.N,Information Technology
+130,COO.N,Health Care
+131,HQY.OQ,Health Care
+132,NX.N,Industrials
+133,SFL.N,Energy
+134,PLAY.OQ,Consumer Discretionary
+135,NSSC.OQ,Information Technology
+136,AGX.N,Industrials
+137,MRVL.OQ,Information Technology
+138,CASY.OQ,Consumer Staples
+139,MBUU.OQ,Consumer Discretionary
+140,CVGW.OQ,Consumer Staples
+141,ABM.N,Industrials
+142,GWRE.N,Information Technology
+143,VRNT.OQ,Information Technology
+144,NAV.N,Industrials
+145,LMNR.OQ,Consumer Staples
+146,FCEL.OQ,Industrials
+147,AMBA.OQ,Information Technology
+148,SAIC.N,Industrials
+149,UBA.N,Real Estate
+150,JWa.N,Communication Services
+151,FIZZ.OQ,Consumer Staples
+152,CONN.OQ,Consumer Discretionary
+153,ZUMZ.OQ,Consumer Discretionary
+154,CDMO.OQ,Health Care
+155,CSR.N,Real Estate
+156,RH.N,Consumer Discretionary
+157,KFY.N,Industrials
+158,AVGO.OQ,Information Technology
+159,BRC.N,Industrials
+160,AVNW.OQ,Information Technology
+161,KR.N,Consumer Staples
+162,MCFT.OQ,Consumer Discretionary
+163,HOV.N,Consumer Discretionary
+164,HOFT.OQ,Consumer Discretionary
+165,UNFI.N,Consumer Staples
+166,VXRT.OQ,Health Care
+167,CBRL.OQ,Consumer Discretionary
+168,ESGC.N,Communication Services
+169,APOG.OQ,Industrials
+170,ORCL.N,Information Technology
+171,LENb.N,Consumer Discretionary
+172,KBH.N,Consumer Discretionary
+173,CPRT.OQ,Industrials
+174,LEN.N,Consumer Discretionary
+175,ADBE.OQ,Information Technology
+176,SCS.N,Industrials
+177,FDX.N,Industrials
+178,KMX.N,Consumer Discretionary
+179,GIS.N,Consumer Staples
+180,FUL.N,Materials
+181,MLHR.OQ,Industrials
+182,JBL.N,Information Technology
+183,BBBY.OQ,Consumer Discretionary
+184,AIR.N,Industrials
+185,RAD.N,Consumer Staples
+186,SCHL.OQ,Communication Services
+187,AZO.N,Consumer Discretionary
+188,AMRK.OQ,Financials
+189,DCI.N,Industrials
+190,NAT.N,Energy
+191,CALM.OQ,Consumer Staples
+192,CCL.N,Consumer Discretionary
+193,THO.N,Consumer Discretionary
+194,MTN.N,Consumer Discretionary
+195,SNX.N,Information Technology
+196,INFO.N,Industrials
+197,CTAS.OQ,Industrials
+198,NKE.N,Consumer Discretionary
+199,EBF.N,Industrials
+200,FDS.N,Financials
+201,NEOG.OQ,Health Care
+202,EPAC.N,Industrials
+203,PAYX.OQ,Information Technology
+204,WOR.N,Materials
+205,IDT.N,Communication Services
+206,PRGS.OQ,Information Technology
+207,PEP.OQ,Consumer Staples
+208,CAMP.OQ,Information Technology
+209,CAG.N,Consumer Staples
+210,ACN.N,Information Technology
+211,COST.OQ,Consumer Staples
+212,MKC.N,Consumer Staples
+213,DRI.N,Consumer Discretionary
+214,MU.OQ,Information Technology
+215,STZ.N,Consumer Staples
+216,GPN.N,Information Technology
+217,YUM.N,Consumer Discretionary
+218,ANGO.OQ,Health Care
+219,RGP.OQ,Industrials
+220,AZZ.N,Industrials
+221,RPM.N,Materials
+222,AYI.N,Industrials
+223,CMTL.OQ,Information Technology
+224,WMS.N,Industrials
+225,INDT.OQ,Real Estate
+226,HELE.OQ,Consumer Discretionary
+227,HCSG.OQ,Industrials
+228,FAST.OQ,Industrials
+229,HWM.N,Industrials
+230,OZK.OQ,Financials
+231,WINA.OQ,Consumer Discretionary
+232,CSX.OQ,Industrials
+233,SASR.OQ,Financials
+234,PGR.N,Financials
+235,IBIO.A,Health Care
+236,FRC.N,Financials
+237,SKY.N,Consumer Discretionary
+238,VAC.N,Consumer Discretionary
+239,LNN.N,Industrials
+240,DAL.N,Industrials
+241,PNC.N,Financials
+242,JPM.N,Financials
+243,UEC.A,Energy
+244,FHN.N,Financials
+245,TMX.N,Consumer Discretionary
+246,C.N,Financials
+247,WFC.N,Financials
+248,CBSH.OQ,Financials
+249,CZNC.OQ,Financials
+250,SFBS.N,Financials
+251,TACO.OQ,Consumer Discretionary
+252,HAS.OQ,Consumer Discretionary
+253,PFC.OQ,Financials
+254,BMI.N,Information Technology
+255,UAL.OQ,Industrials
+256,JBHT.OQ,Industrials
+257,BAC.N,Financials
+258,IEX.N,Industrials
+259,CE.N,Materials
+260,NFLX.OQ,Communication Services
+261,ABCB.OQ,Financials
+262,WTFC.OQ,Financials
+263,IBM.N,Information Technology
+264,SCHW.N,Financials
+265,LII.N,Industrials
+266,RF.N,Financials
+267,HWC.OQ,Financials
+268,GWW.N,Industrials
+269,MBWM.OQ,Financials
+270,PM.N,Consumer Staples
+271,DPZ.N,Consumer Discretionary
+272,MTG.N,Financials
+273,SCL.N,Materials
+274,WWW.N,Consumer Discretionary
+275,INTC.OQ,Information Technology
+276,SNV.N,Financials
+277,CMA.N,Financials
+278,UFPI.OQ,Industrials
+279,HA.OQ,Industrials
+280,ELS.N,Real Estate
+281,KSU.N,Industrials
+282,FMBI.OQ,Financials
+283,HAFC.OQ,Financials
+284,FULT.OQ,Financials
+285,UNH.N,Health Care
+286,WGO.N,Consumer Discretionary
+287,PNFP.OQ,Financials
+288,PACW.OQ,Financials
+289,HOG.N,Consumer Discretionary
+290,JNJ.N,Health Care
+291,BLK.N,Financials
+292,GS.N,Financials
+293,OMC.N,Communication Services
+294,ISRG.OQ,Health Care
+295,IBKR.OQ,Financials
+296,MANH.OQ,Information Technology
+297,RNST.OQ,Financials
+298,NAVI.OQ,Financials
+299,EBAY.OQ,Consumer Discretionary
+300,WDFC.OQ,Consumer Staples
+301,VMI.N,Industrials
+302,NTRS.OQ,Financials
+303,KALU.OQ,Materials
+304,URI.N,Industrials
+305,MS.N,Financials
+306,EGBN.OQ,Financials
+307,APH.N,Information Technology
+308,LSTR.OQ,Industrials
+309,LRCX.OQ,Information Technology
+310,ADTN.OQ,Information Technology
+311,WAFD.OQ,Financials
+312,HCCI.OQ,Industrials
+313,SFNC.OQ,Financials
+314,SLG.N,Real Estate
+315,BRKL.OQ,Financials
+316,PPBI.OQ,Financials
+317,UMPQ.OQ,Financials
+318,UNF.N,Industrials
+319,MTB.N,Financials
+320,GSBC.OQ,Financials
+321,HNI.N,Industrials
+322,TUP.N,Consumer Discretionary
+323,HAL.N,Energy
+324,FNLC.OQ,Financials
+325,STLD.OQ,Materials
+326,BANC.N,Financials
+327,EWBC.OQ,Financials
+328,GPC.N,Consumer Discretionary
+329,TFC.N,Financials
+330,BXS.N,Financials
+331,BJRI.OQ,Consumer Discretionary
+332,HXL.N,Industrials
+333,EGP.N,Real Estate
+334,XLNX.OQ,Information Technology
+335,TSCO.OQ,Consumer Discretionary
+336,SNBR.OQ,Consumer Discretionary
+337,KMI.N,Energy
+338,RLI.N,Financials
+339,DOV.N,Industrials
+340,CATY.OQ,Financials
+341,CNS.N,Financials
+342,PKG.N,Materials
+343,CTXS.OQ,Information Technology
+344,FNB.N,Financials
+345,SLM.OQ,Financials
+346,HOPE.OQ,Financials
+347,HLX.N,Energy
+348,OFLX.OQ,Industrials
+349,ABT.N,Health Care
+350,NTUS.OQ,Health Care
+351,TSC.OQ,Financials
+352,CTBI.OQ,Financials
+353,USB.N,Financials
+354,PFBC.OQ,Financials
+355,EXPO.OQ,Industrials
+356,MAT.OQ,Consumer Discretionary
+357,GGG.N,Industrials
+358,BDN.N,Real Estate
+359,AXP.N,Financials
+360,CCK.N,Materials
+361,CVBF.OQ,Financials
+362,LAD.N,Consumer Discretionary
+363,STBA.OQ,Financials
+364,DHR.N,Health Care
+365,SNA.N,Industrials
+366,EBTC.OQ,Financials
+367,CCI.N,Real Estate
+368,STC.N,Financials
+369,TRV.N,Financials
+370,FFBC.OQ,Financials
+371,BKU.N,Financials
+372,PFPT.OQ,Information Technology
+373,AMD.OQ,Information Technology
+374,SAM.N,Consumer Staples
+375,BK.N,Financials
+376,SRCE.OQ,Financials
+377,KLAC.OQ,Information Technology
+378,IMAX.N,Communication Services
+379,VZ.N,Communication Services
+380,GNTX.OQ,Consumer Discretionary
+381,BANF.OQ,Financials
+382,WABC.OQ,Financials
+383,SIVB.OQ,Financials
+384,PBCT.OQ,Financials
+385,FRST.OQ,Financials
+386,ASB.N,Financials
+387,DAN.N,Consumer Discretionary
+388,SXT.N,Materials
+389,SBNY.OQ,Financials
+390,BHE.N,Information Technology
+391,FITB.OQ,Financials
+392,IIIN.N,Industrials
+393,PYPL.OQ,Information Technology
+394,AAL.OQ,Industrials
+395,HOMB.OQ,Financials
+396,DGX.N,Health Care
+397,SEIC.OQ,Financials
+398,CLW.N,Materials
+399,MORN.OQ,Financials
+400,PPG.N,Materials
+401,PHM.N,Consumer Discretionary
+402,SKX.N,Consumer Discretionary
+403,NWE.OQ,Utilities
+404,GBCI.OQ,Financials
+405,UNP.N,Industrials
+406,ALK.N,Industrials
+407,INDB.OQ,Financials
+408,WBA.OQ,Consumer Staples
+409,ITW.N,Industrials
+410,GATX.N,Industrials
+411,FWRD.OQ,Industrials
+412,WERN.OQ,Industrials
+413,NBHC.N,Financials
+414,KNL.N,Industrials
+415,FFIN.OQ,Financials
+416,MSFT.OQ,Information Technology
+417,RS.N,Materials
+418,MXIM.OQ,Information Technology
+419,BMTC.OQ,Financials
+420,GPI.N,Consumer Discretionary
+421,PLD.N,Real Estate
+422,NUE.N,Materials
+423,CASS.OQ,Information Technology
+424,MRTN.OQ,Industrials
+425,FMNB.OQ,Financials
+426,SXC.N,Materials
+427,FAF.N,Financials
+428,MNRO.OQ,Consumer Discretionary
+429,NVR.N,Consumer Discretionary
+430,SWN.N,Energy
+431,TCBI.OQ,Financials
+432,SON.N,Materials
+433,POOL.OQ,Consumer Discretionary
+434,ADS.N,Information Technology
+435,UTL.N,Utilities
+436,AROW.OQ,Financials
+437,TXT.N,Industrials
+438,AUB.OQ,Financials
+439,BPFH.OQ,Financials
+440,EEFT.OQ,Information Technology
+441,SSB.OQ,Financials
+442,MAN.N,Industrials
+443,GE.N,Industrials
+444,MCD.N,Consumer Discretionary
+445,MCO.N,Financials
+446,PFIS.OQ,Financials
+447,RBCAA.OQ,Financials
+448,WBS.N,Financials
+449,HON.OQ,Industrials
+450,TRST.OQ,Financials
+451,CFG.N,Financials
+452,PCH.OQ,Real Estate
+453,LECO.OQ,Industrials
+454,SYF.N,Financials
+455,CIVB.OQ,Financials
+456,AIMC.OQ,Industrials
+457,PH.N,Industrials
+458,OFG.N,Financials
+459,BRO.N,Financials
+460,AGNC.OQ,Financials
+461,NWBI.OQ,Financials
+462,IBTX.OQ,Financials
+463,RMBS.OQ,Information Technology
+464,PRK.A,Financials
+465,EFSC.OQ,Financials
+466,EXP.N,Materials
+467,WAL.N,Financials
+468,RE.N,Financials
+469,DORM.OQ,Consumer Discretionary
+470,BOH.N,Financials
+471,HMST.OQ,Financials
+472,HSII.OQ,Industrials
+473,MPB.OQ,Financials
+474,MRK.N,Health Care
+475,WNC.N,Industrials
+476,KNX.N,Industrials
+477,TMUS.OQ,Communication Services
+478,BMRC.OQ,Financials
+479,FIBK.OQ,Financials
+480,ALSN.N,Industrials
+481,NBTB.OQ,Financials
+482,ADC.N,Real Estate
+483,VFC.N,Consumer Discretionary
+484,ZION.OQ,Financials
+485,BHLB.N,Financials
+486,WASH.OQ,Financials
+487,CHCO.OQ,Financials
+488,PETS.OQ,Consumer Discretionary
+489,CDNS.OQ,Information Technology
+490,CR.N,Industrials
+491,KN.N,Information Technology
+492,CMP.N,Materials
+493,V.N,Information Technology
+494,CMRE.N,Industrials
+495,TBI.N,Industrials
+496,BRX.N,Real Estate
+497,HTLD.OQ,Industrials
+498,CBU.N,Financials
+499,UDR.N,Real Estate
+500,SHW.N,Materials
+501,ZIXI.OQ,Information Technology
+502,WAB.N,Industrials
+503,GM.N,Consumer Discretionary
+504,LLY.N,Health Care
+505,TNC.N,Industrials
+506,T.N,Communication Services
+507,VICR.OQ,Industrials
+508,PSB.N,Real Estate
+509,PG.N,Consumer Staples
+510,FELE.OQ,Industrials
+511,VRTX.OQ,Health Care
+512,TRMK.OQ,Financials
+513,MAS.N,Industrials
+514,KEY.N,Financials
+515,ETR.N,Utilities
+516,RRC.N,Energy
+517,STL.N,Financials
+518,CNOB.OQ,Financials
+519,MRCY.OQ,Industrials
+520,BKR.N,Energy
+521,RMD.N,Health Care
+522,GPK.N,Materials
+523,BUSE.OQ,Financials
+524,MMC.N,Financials
+525,WSBC.OQ,Financials
+526,RTX.N,Industrials
+527,ABG.N,Consumer Discretionary
+528,MLI.N,Industrials
+529,AAPL.OQ,Information Technology
+530,FBC.N,Financials
+531,HIW.N,Real Estate
+532,AIZ.N,Financials
+533,CSL.N,Industrials
+534,JBLU.OQ,Industrials
+535,KKR.N,Financials
+536,HT.N,Real Estate
+537,FCBC.OQ,Financials
+538,CAT.N,Industrials
+539,WHR.N,Consumer Discretionary
+540,RC.N,Financials
+541,PII.N,Consumer Discretionary
+542,VBTX.OQ,Financials
+543,FBP.N,Financials
+544,CLI.N,Real Estate
+545,RNG.N,Information Technology
+546,IRBT.OQ,Consumer Discretionary
+547,BXMT.N,Financials
+548,CAC.OQ,Financials
+549,GLW.N,Information Technology
+550,BPOP.OQ,Financials
+551,NLSN.N,Industrials
+552,UAA.N,Consumer Discretionary
+553,SKT.N,Real Estate
+554,CVLT.OQ,Information Technology
+555,THFF.OQ,Financials
+556,CNC.N,Health Care
+557,UIS.N,Information Technology
+558,AMP.N,Financials
+559,EQR.N,Real Estate
+560,CASH.OQ,Financials
+561,MMM.N,Industrials
+562,GL.N,Financials
+563,USNA.N,Consumer Staples
+564,FSP.A,Real Estate
+565,PEBO.OQ,Financials
+566,CINF.OQ,Financials
+567,CSV.N,Consumer Discretionary
+568,RCKY.OQ,Consumer Discretionary
+569,GBX.N,Industrials
+570,NBR.N,Energy
+571,AVB.N,Real Estate
+572,CVA.N,Industrials
+573,BAX.N,Health Care
+574,COF.N,Financials
+575,R.N,Industrials
+576,AKR.N,Real Estate
+577,TRU.N,Industrials
+578,SCHN.OQ,Materials
+579,CHRW.OQ,Industrials
+580,AKAM.OQ,Information Technology
+581,ABTX.OQ,Financials
+582,OI.N,Materials
+583,FRME.OQ,Financials
+584,PCAR.OQ,Industrials
+585,CMG.N,Consumer Discretionary
+586,ROIC.OQ,Real Estate
+587,LKFN.OQ,Financials
+588,DFS.N,Financials
+589,EW.N,Health Care
+590,SAVE.N,Industrials
+591,FCX.N,Materials
+592,IIVI.OQ,Information Technology
+593,ST.N,Industrials
+594,CB.N,Financials
+595,QTS.N,Real Estate
+596,FISI.OQ,Financials
+597,ATI.N,Materials
+598,PNR.N,Industrials
+599,WSO.N,Industrials
+600,TRNS.OQ,Industrials
+601,EAT.N,Consumer Discretionary
+602,HTA.N,Real Estate
+603,EBSB.OQ,Financials
+604,JNPR.N,Information Technology
+605,ACC.N,Real Estate
+606,UMBF.OQ,Financials
+607,NCR.N,Information Technology
+608,CIT.N,Financials
+609,VLO.N,Energy
+610,WRB.N,Financials
+611,WAT.N,Health Care
+612,FFIC.OQ,Financials
+613,MCRI.OQ,Consumer Discretionary
+614,ASTE.OQ,Industrials
+615,HLT.N,Consumer Discretionary
+616,NUVA.OQ,Health Care
+617,VSEC.OQ,Industrials
+618,RHI.N,Industrials
+619,EVR.N,Financials
+620,FCF.N,Financials
+621,CAKE.OQ,Consumer Discretionary
+622,OC.N,Industrials
+623,SIGI.OQ,Financials
+624,RBBN.OQ,Information Technology
+625,UNM.N,Financials
+626,ANIK.OQ,Health Care
+627,MDLZ.OQ,Consumer Staples
+628,MMSI.OQ,Health Care
+629,LMAT.OQ,Health Care
+630,KO.N,Consumer Staples
+631,EXAS.OQ,Health Care
+632,TTMI.OQ,Information Technology
+633,TSLA.OQ,Consumer Discretionary
+634,TBK.OQ,Financials
+635,TYL.N,Information Technology
+636,SCI.N,Consumer Discretionary
+637,HUBB.N,Industrials
+638,HTBI.OQ,Financials
+639,EIG.N,Financials
+640,CHE.N,Health Care
+641,EFX.N,Industrials
+642,EXR.N,Real Estate
+643,LRN.N,Consumer Discretionary
+644,NEO.OQ,Health Care
+645,APYX.OQ,Health Care
+646,TRN.N,Industrials
+647,BEN.N,Financials
+648,ECHO.OQ,Industrials
+649,CFR.N,Financials
+650,CW.N,Industrials
+651,SGMO.OQ,Health Care
+652,LOB.OQ,Financials
+653,SYBT.OQ,Financials
+654,INFN.OQ,Information Technology
+655,ALGT.OQ,Industrials
+656,LMT.N,Industrials
+657,BCC.N,Industrials
+658,NDAQ.OQ,Financials
+659,SBCF.OQ,Financials
+660,RUSHA.OQ,Industrials
+661,VG.OQ,Information Technology
+662,BOKF.OQ,Financials
+663,WEC.N,Utilities
+664,GNRC.N,Industrials
+665,CUBI.N,Financials
+666,SLAB.OQ,Information Technology
+667,PB.N,Financials
+668,BANR.OQ,Financials
+669,KRA.N,Materials
+670,NOC.N,Industrials
+671,LH.N,Health Care
+672,AOS.N,Industrials
+673,TXN.OQ,Information Technology
+674,PPC.OQ,Consumer Staples
+675,FBHS.N,Industrials
+676,DHIL.OQ,Financials
+677,BA.N,Industrials
+678,NOW.N,Information Technology
+679,SJW.N,Utilities
+680,GRPN.OQ,Consumer Discretionary
+681,HBAN.OQ,Financials
+682,CDE.N,Materials
+683,WIRE.OQ,Industrials
+684,SLB.N,Energy
+685,LBAI.OQ,Financials
+686,HUBG.OQ,Industrials
+687,RBNC.OQ,Financials
+688,EXC.OQ,Utilities
+689,GRMN.OQ,Consumer Discretionary
+690,AMSF.OQ,Financials
+691,TNL.N,Consumer Discretionary
+692,WDC.OQ,Information Technology
+693,UCBI.OQ,Financials
+694,MKTX.OQ,Financials
+695,RJF.N,Financials
+696,CSGP.OQ,Industrials
+697,CMO.N,Financials
+698,ALLY.N,Financials
+699,EGHT.N,Information Technology
+700,DTE.N,Utilities
+701,AGCO.N,Industrials
+702,CSII.OQ,Health Care
+703,AIT.N,Industrials
+704,TT.N,Industrials
+705,GD.N,Industrials
+706,UCTT.OQ,Information Technology
+707,HBNC.OQ,Financials
+708,LUV.N,Industrials
+709,VMW.N,Information Technology
+710,MKSI.OQ,Information Technology
+711,ENTG.OQ,Information Technology
+712,ACCO.N,Industrials
+713,O.N,Real Estate
+714,CRY.N,Health Care
+715,CMPR.OQ,Industrials
+716,NEU.N,Materials
+717,ETH.N,Consumer Discretionary
+718,FFIV.OQ,Information Technology
+719,ALTA.OQ,Financials
+720,BSX.N,Health Care
+721,DLB.N,Information Technology
+722,ARI.N,Financials
+723,NSC.N,Industrials
+724,VLY.OQ,Financials
+725,BOOT.N,Consumer Discretionary
+726,PSA.N,Real Estate
+727,TILE.OQ,Industrials
+728,RCII.OQ,Consumer Discretionary
+729,ORLY.OQ,Consumer Discretionary
+730,JBT.N,Industrials
+731,BIIB.OQ,Health Care
+732,RGA.N,Financials
+733,AR.N,Energy
+734,GTY.N,Real Estate
+735,LEA.N,Consumer Discretionary
+736,HES.N,Energy
+737,NYCB.N,Financials
+738,FISV.OQ,Information Technology
+739,GRA.N,Materials
+740,ROL.N,Industrials
+741,PLNT.N,Consumer Discretionary
+742,STT.N,Financials
+743,BCO.N,Industrials
+744,FCNCA.OQ,Financials
+745,PTC.OQ,Information Technology
+746,BXP.N,Real Estate
+747,TER.OQ,Information Technology
+748,LLNW.OQ,Information Technology
+749,MC.N,Financials
+750,SLGN.OQ,Materials
+751,SIX.N,Consumer Discretionary
+752,STRA.OQ,Consumer Discretionary
+753,PAG.N,Consumer Discretionary
+754,NTGR.OQ,Information Technology
+755,AXTI.OQ,Information Technology
+756,KWR.N,Materials
+757,OCFC.OQ,Financials
+758,DRE.N,Real Estate
+759,SPG.N,Real Estate
+760,FORR.OQ,Industrials
+761,UVSP.OQ,Financials
+762,AVY.N,Materials
+763,KMT.N,Industrials
+764,WM.N,Industrials
+765,RUSHB.OQ,Industrials
+766,QDEL.OQ,Health Care
+767,SAIA.OQ,Industrials
+768,PLXS.OQ,Information Technology
+769,CMCSA.OQ,Communication Services
+770,NEM.N,Materials
+771,FFWM.OQ,Financials
+772,IBCP.OQ,Financials
+773,WCC.N,Industrials
+774,NATI.OQ,Information Technology
+775,TKR.N,Industrials
+776,AMT.N,Real Estate
+777,EQT.N,Energy
+778,CCMP.OQ,Information Technology
+779,UTHR.OQ,Health Care
+780,CLF.N,Materials
+781,PSMT.OQ,Consumer Staples
+782,CFFN.OQ,Financials
+783,AFL.N,Financials
+784,ECOL.OQ,Industrials
+785,MSCI.N,Financials
+786,VRSN.OQ,Information Technology
+787,MTRN.N,Materials
+788,MSTR.OQ,Information Technology
+789,UPS.N,Industrials
+790,CNMD.N,Health Care
+791,PFG.OQ,Financials
+792,IP.N,Materials
+793,HFWA.OQ,Financials
+794,TMST.N,Materials
+795,KIM.N,Real Estate
+796,OIS.N,Energy
+797,KOPN.OQ,Information Technology
+798,PTEN.OQ,Energy
+799,ALLE.N,Industrials
+800,KDP.OQ,Consumer Staples
+801,PIPR.N,Financials
+802,GOOGL.OQ,Communication Services
+803,MDP.N,Communication Services
+804,DCOM.OQ,Financials
+805,CMC.N,Materials
+806,CRAI.OQ,Industrials
+807,DECK.N,Consumer Discretionary
+808,NFBK.OQ,Financials
+809,PATK.OQ,Consumer Discretionary
+810,FIX.N,Industrials
+811,SITC.N,Real Estate
+812,BGCP.OQ,Financials
+813,SGEN.OQ,Health Care
+814,CFX.N,Industrials
+815,INVA.OQ,Health Care
+816,THRM.OQ,Consumer Discretionary
+817,WST.N,Health Care
+818,CBRE.N,Real Estate
+819,ATNI.OQ,Communication Services
+820,XEL.OQ,Utilities
+821,ROCK.OQ,Industrials
+822,SKYW.OQ,Industrials
+823,VCRA.N,Health Care
+824,PDFS.OQ,Information Technology
+825,UHT.N,Real Estate
+826,TDOC.N,Health Care
+827,CME.OQ,Financials
+828,ONTO.N,Information Technology
+829,BGS.N,Consumer Staples
+830,DLR.N,Real Estate
+831,SMP.N,Consumer Discretionary
+832,OFC.N,Real Estate
+833,CUBE.N,Real Estate
+834,CRS.N,Materials
+835,CPT.N,Real Estate
+836,COLB.OQ,Financials
+837,COHU.OQ,Information Technology
+838,WSFS.OQ,Financials
+839,F.N,Consumer Discretionary
+840,PEB.N,Real Estate
+841,MPC.N,Energy
+842,CXP.N,Real Estate
+843,TROW.OQ,Financials
+844,FLIC.OQ,Financials
+845,CHH.N,Consumer Discretionary
+846,FLS.N,Industrials
+847,BMRN.OQ,Health Care
+848,KRC.N,Real Estate
+849,MOH.N,Health Care
+850,SWK.N,Industrials
+851,HCA.N,Health Care
+852,PRLB.N,Industrials
+853,POWI.OQ,Information Technology
+854,NTCT.OQ,Information Technology
+855,IVZ.N,Financials
+856,CNXN.OQ,Information Technology
+857,BCOR.OQ,Financials
+858,MCS.N,Communication Services
+859,TOWN.OQ,Financials
+860,DRQ.N,Energy
+861,FR.N,Real Estate
+862,TRS.OQ,Industrials
+863,TWTR.N,Communication Services
+864,AIV.N,Real Estate
+865,BWA.N,Consumer Discretionary
+866,IPG.N,Communication Services
+867,MD.N,Health Care
+868,TMO.N,Health Care
+869,OMCL.OQ,Health Care
+870,MOFG.OQ,Financials
+871,SRI.N,Consumer Discretionary
+872,CVI.N,Energy
+873,HEES.OQ,Industrials
+874,TPL.N,Energy
+875,TDC.N,Information Technology
+876,SRPT.OQ,Health Care
+877,AMGN.OQ,Health Care
+878,RDN.N,Financials
+879,IPGP.OQ,Information Technology
+880,AXS.N,Financials
+881,AX.N,Financials
+882,UBSI.OQ,Financials
+883,SSNC.OQ,Information Technology
+884,NOV.N,Energy
+885,MCK.N,Health Care
+886,HBIO.OQ,Health Care
+887,CHDN.OQ,Consumer Discretionary
+888,UFS.N,Materials
+889,FCFS.OQ,Financials
+890,ATR.N,Materials
+891,CENX.OQ,Materials
+892,ABMD.OQ,Health Care
+893,TCBK.OQ,Financials
+894,COP.N,Energy
+895,CMS.N,Utilities
+896,FTNT.OQ,Information Technology
+897,HTH.N,Financials
+898,ORI.N,Financials
+899,VVI.N,Industrials
+900,HTBK.OQ,Financials
+901,TPH.N,Consumer Discretionary
+902,AGEN.OQ,Health Care
+903,COR.N,Real Estate
+904,CYTK.OQ,Health Care
+905,EHTH.OQ,Financials
+906,FMBH.OQ,Financials
+907,FHI.N,Financials
+908,MO.N,Consumer Staples
+909,HBI.N,Consumer Discretionary
+910,OII.N,Energy
+911,AVT.OQ,Information Technology
+912,AZPN.OQ,Information Technology
+913,ATEN.N,Information Technology
+914,APD.N,Materials
+915,ISBC.OQ,Financials
+916,KAMN.N,Industrials
+917,ENVA.N,Financials
+918,AXTA.N,Materials
+919,WRI.N,Real Estate
+920,TFX.N,Health Care
+921,PENN.OQ,Consumer Discretionary
+922,ATRC.OQ,Health Care
+923,WRE.N,Real Estate
+924,WTBA.OQ,Financials
+925,TBBK.OQ,Financials
+926,ERIE.OQ,Financials
+927,GCI.N,Communication Services
+928,KRG.N,Real Estate
+929,DGII.OQ,Information Technology
+930,GWB.N,Financials
+931,LKQ.OQ,Consumer Discretionary
+932,EXPE.OQ,Consumer Discretionary
+933,CRI.N,Consumer Discretionary
+934,LEG.N,Consumer Discretionary
+935,IRDM.OQ,Communication Services
+936,EME.N,Industrials
+937,NXPI.OQ,Information Technology
+938,MSA.N,Industrials
+939,TREE.OQ,Financials
+940,SRCL.OQ,Industrials
+941,IART.OQ,Health Care
+942,SPSC.OQ,Information Technology
+943,MTH.N,Consumer Discretionary
+944,TFSL.OQ,Financials
+945,IDA.N,Utilities
+946,ODFL.OQ,Industrials
+947,MAC.N,Real Estate
+948,WLL.N,Energy
+949,FORM.OQ,Information Technology
+950,MUR.N,Energy
+951,SC.N,Financials
+952,ESS.N,Real Estate
+953,MAA.N,Real Estate
+954,ALEX.N,Real Estate
+955,COWN.OQ,Financials
+956,SEE.N,Materials
+957,CL.N,Consumer Staples
+958,RM.N,Financials
+959,COLM.OQ,Consumer Discretionary
+960,GTLS.N,Industrials
+961,BOOM.OQ,Energy
+962,IDCC.OQ,Information Technology
+963,RSG.N,Industrials
+964,FCN.N,Industrials
+965,CPF.N,Financials
+966,VC.OQ,Consumer Discretionary
+967,SIRI.OQ,Communication Services
+968,OPI.OQ,Real Estate
+969,WWE.N,Communication Services
+970,EXLS.OQ,Information Technology
+971,SSD.N,Industrials
+972,NSIT.OQ,Information Technology
+973,FBNC.OQ,Financials
+974,OSPN.OQ,Information Technology
+975,ASGN.N,Industrials
+976,ALXN.OQ,Health Care
+977,CWT.N,Utilities
+978,EHC.N,Health Care
+979,CRUS.OQ,Information Technology
+980,AJG.N,Financials
+981,BMY.N,Health Care
+982,WEX.N,Information Technology
+983,AMZN.OQ,Consumer Discretionary
+984,QCRH.OQ,Financials
+985,SYNA.OQ,Information Technology
+986,LITE.OQ,Information Technology
+987,DLX.N,Industrials
+988,BHB.A,Financials
+989,NXGN.OQ,Health Care
+990,ABBV.N,Health Care
+991,PBF.N,Energy
+992,SBSI.OQ,Financials
+993,XOM.N,Energy
+994,LPG.N,Energy
+995,AN.N,Consumer Discretionary
+996,INT.N,Energy
+997,SYK.N,Health Care
+998,XRX.N,Information Technology
+999,VRTS.OQ,Financials
+1000,CTS.N,Information Technology
+1001,WY.N,Real Estate
+1002,LAZ.N,Financials
+1003,NWL.OQ,Consumer Discretionary
+1004,PRG.N,Financials
+1005,MA.N,Information Technology
+1006,PGC.OQ,Financials
+1007,PSX.N,Energy
+1008,TEN.N,Consumer Discretionary
+1009,ACBI.OQ,Financials
+1010,VTR.N,Real Estate
+1011,WSBF.OQ,Financials
+1012,MHO.N,Consumer Discretionary
+1013,HUN.N,Materials
+1014,HE.N,Utilities
+1015,B.N,Industrials
+1016,KRNY.OQ,Financials
+1017,GVA.N,Industrials
+1018,IMGN.OQ,Health Care
+1019,AON.N,Financials
+1020,CIR.N,Industrials
+1021,HSY.N,Consumer Staples
+1022,TMP.A,Financials
+1023,APO.N,Financials
+1024,BLMN.OQ,Consumer Discretionary
+1025,MGI.OQ,Information Technology
+1026,IRT.N,Real Estate
+1027,POR.N,Utilities
+1028,OPY.N,Financials
+1029,CMCO.OQ,Industrials
+1030,SCCO.N,Materials
+1031,RCL.N,Consumer Discretionary
+1032,RUTH.OQ,Consumer Discretionary
+1033,GT.OQ,Consumer Discretionary
+1034,PCYO.OQ,Utilities
+1035,CBOE.Z,Financials
+1036,PNM.N,Utilities
+1037,COG.N,Energy
+1038,URG.A,Energy
+1039,PFS.N,Financials
+1040,CVX.N,Energy
+1041,WETF.OQ,Financials
+1042,GRC.N,Industrials
+1043,WSR.N,Real Estate
+1044,NLS.N,Consumer Discretionary
+1045,ONB.OQ,Financials
+1046,ORC.N,Financials
+1047,D.N,Utilities
+1048,CGNX.OQ,Information Technology
+1049,CNA.N,Financials
+1050,ARE.N,Real Estate
+1051,OHI.N,Real Estate
+1052,HTLF.OQ,Financials
+1053,LUMN.N,Communication Services
+1054,SYKE.OQ,Information Technology
+1055,ZBH.N,Health Care
+1056,STRL.OQ,Industrials
+1057,SYNH.OQ,Health Care
+1058,ROP.N,Industrials
+1059,BWXT.N,Industrials
+1060,THC.N,Health Care
+1061,CONE.OQ,Real Estate
+1062,DRRX.OQ,Health Care
+1063,OFIX.OQ,Health Care
+1064,L.N,Financials
+1065,MPWR.OQ,Information Technology
+1066,LL.N,Consumer Discretionary
+1067,AMKR.OQ,Information Technology
+1068,VNO.N,Real Estate
+1069,GABC.OQ,Financials
+1070,HVT.N,Consumer Discretionary
+1071,GIC.N,Industrials
+1072,CBT.N,Materials
+1073,OGS.N,Utilities
+1074,CAH.N,Health Care
+1075,MCY.N,Financials
+1076,CPS.N,Consumer Discretionary
+1077,ANAT.OQ,Financials
+1078,SO.N,Utilities
+1079,WMB.N,Energy
+1080,GOOD.OQ,Real Estate
+1081,PEG.N,Utilities
+1082,AMG.N,Financials
+1083,LPX.N,Materials
+1084,DK.N,Energy
+1085,RYAM.N,Materials
+1086,AWI.N,Industrials
+1087,MIC.N,Industrials
+1088,OLN.N,Materials
+1089,ALX.N,Real Estate
+1090,TEX.N,Industrials
+1091,AIN.N,Industrials
+1092,LMNX.OQ,Health Care
+1093,HMN.N,Financials
+1094,AEIS.OQ,Information Technology
+1095,WMK.N,Consumer Staples
+1096,GPRE.OQ,Energy
+1097,PLOW.N,Industrials
+1098,CLAR.OQ,Consumer Discretionary
+1099,DXCM.OQ,Health Care
+1100,SUI.N,Real Estate
+1101,JCOM.OQ,Information Technology
+1102,CCS.N,Consumer Discretionary
+1103,TAP.N,Consumer Staples
+1104,WU.N,Information Technology
+1105,ZEN.N,Information Technology
+1106,SBAC.OQ,Real Estate
+1107,EA.OQ,Communication Services
+1108,KBR.N,Industrials
+1109,VIAV.OQ,Information Technology
+1110,DX.N,Financials
+1111,BYD.N,Consumer Discretionary
+1112,OMI.N,Health Care
+1113,CNX.N,Energy
+1114,TNET.N,Industrials
+1115,AFG.N,Financials
+1116,SM.N,Energy
+1117,CUZ.N,Real Estate
+1118,PEAK.N,Real Estate
+1119,BKD.N,Health Care
+1120,POLY.N,Information Technology
+1121,LHX.N,Industrials
+1122,HLF.N,Consumer Staples
+1123,FARO.OQ,Information Technology
+1124,OSK.N,Industrials
+1125,DIN.N,Consumer Discretionary
+1126,GILD.OQ,Health Care
+1127,LDL.N,Industrials
+1128,PZZA.OQ,Consumer Discretionary
+1129,CMI.N,Industrials
+1130,CCF.A,Materials
+1131,IRM.N,Real Estate
+1132,CBZ.N,Industrials
+1133,WTRG.N,Utilities
+1134,KAI.N,Industrials
+1135,MOD.N,Consumer Discretionary
+1136,TPR.N,Consumer Discretionary
+1137,WING.OQ,Consumer Discretionary
+1138,MYGN.OQ,Health Care
+1139,NYMT.OQ,Financials
+1140,AROC.N,Energy
+1141,PFE.N,Health Care
+1142,RIGL.OQ,Health Care
+1143,SAFT.OQ,Financials
+1144,BGFV.OQ,Consumer Discretionary
+1145,TG.N,Materials
+1146,EMR.N,Industrials
+1147,DISCA.OQ,Communication Services
+1148,TSE.N,Materials
+1149,OXY.N,Energy
+1150,MGRC.OQ,Industrials
+1151,AMRC.N,Industrials
+1152,MTW.N,Industrials
+1153,PBI.N,Industrials
+1154,HY.N,Industrials
+1155,KFRC.OQ,Industrials
+1156,PRO.N,Information Technology
+1157,ICE.N,Financials
+1158,VRSK.OQ,Industrials
+1159,RHP.N,Real Estate
+1160,LNTH.OQ,Health Care
+1161,INCY.OQ,Health Care
+1162,PJT.N,Financials
+1163,CYH.N,Health Care
+1164,MSEX.OQ,Utilities
+1165,X.N,Materials
+1166,CHUY.OQ,Consumer Discretionary
+1167,GLT.N,Materials
+1168,Y.N,Financials
+1169,FIVN.OQ,Information Technology
+1170,BIO.N,Health Care
+1171,PDM.N,Real Estate
+1172,AJRD.N,Industrials
+1173,RPT.N,Real Estate
+1174,ENPH.OQ,Information Technology
+1175,ES.N,Utilities
+1176,HURN.OQ,Industrials
+1177,CACC.OQ,Financials
+1178,SPR.N,Industrials
+1179,CNO.N,Financials
+1180,CAI.N,Industrials
+1181,MKL.N,Financials
+1182,VECO.OQ,Information Technology
+1183,PRTS.OQ,Consumer Discretionary
+1184,BLKB.OQ,Information Technology
+1185,EXTR.OQ,Information Technology
+1186,NEE.N,Utilities
+1187,CRVL.OQ,Health Care
+1188,CALX.N,Information Technology
+1189,PAYC.N,Information Technology
+1190,FSS.N,Industrials
+1191,AHH.N,Real Estate
+1192,QUOT.N,Consumer Discretionary
+1193,APAM.N,Financials
+1194,ACHC.OQ,Health Care
+1195,SHOO.OQ,Consumer Discretionary
+1196,SANM.OQ,Information Technology
+1197,RPAI.N,Real Estate
+1198,ETSY.OQ,Consumer Discretionary
+1199,Z.OQ,Communication Services
+1200,DISCK.OQ,Communication Services
+1201,MOS.N,Materials
+1202,SHO.N,Real Estate
+1203,FRPT.OQ,Consumer Staples
+1204,IDXX.OQ,Health Care
+1205,PPL.N,Utilities
+1206,CORT.OQ,Health Care
+1207,DEI.N,Real Estate
+1208,AAT.N,Real Estate
+1209,TVTY.OQ,Health Care
+1210,OKE.N,Energy
+1211,AME.N,Industrials
+1212,BFS.N,Real Estate
+1213,XYL.N,Industrials
+1214,LYB.N,Materials
+1215,FIS.N,Information Technology
+1216,AVA.N,Utilities
+1217,NI.N,Utilities
+1218,FDP.N,Consumer Staples
+1219,MTDR.N,Energy
+1220,ICFI.OQ,Industrials
+1221,K.N,Consumer Staples
+1222,ECL.N,Materials
+1223,TXRH.OQ,Consumer Discretionary
+1224,ARGO.N,Financials
+1225,MLM.N,Materials
+1226,PXD.N,Energy
+1227,CIM.N,Financials
+1228,HZO.N,Consumer Discretionary
+1229,DVN.N,Energy
+1230,ILMN.OQ,Health Care
+1231,KBAL.OQ,Industrials
+1232,ZG.OQ,Communication Services
+1233,XPER.OQ,Information Technology
+1234,FLT.N,Information Technology
+1235,HSKA.OQ,Health Care
+1236,EVRG.N,Utilities
+1237,BFAM.N,Consumer Discretionary
+1238,MDC.N,Consumer Discretionary
+1239,SAH.N,Consumer Discretionary
+1240,MSM.N,Industrials
+1241,EIX.N,Utilities
+1242,CERN.OQ,Health Care
+1243,NMIH.OQ,Financials
+1244,ADM.N,Consumer Staples
+1245,RGR.N,Consumer Discretionary
+1246,TNDM.OQ,Health Care
+1247,NSP.N,Industrials
+1248,OTTR.OQ,Utilities
+1249,FOE.N,Materials
+1250,SUM.N,Materials
+1251,VOYA.N,Financials
+1252,CLX.N,Consumer Staples
+1253,SEB.A,Consumer Staples
+1254,CXW.N,Industrials
+1255,BSIG.N,Financials
+1256,WELL.N,Real Estate
+1257,LNC.N,Financials
+1258,FPI.N,Real Estate
+1259,SF.N,Financials
+1260,XENT.OQ,Health Care
+1261,MLAB.OQ,Health Care
+1262,MET.N,Financials
+1263,PGRE.N,Real Estate
+1264,HR.N,Real Estate
+1265,PRTA.OQ,Health Care
+1266,MANT.OQ,Industrials
+1267,SNR.N,Real Estate
+1268,AWR.N,Utilities
+1269,OSUR.OQ,Health Care
+1270,HOLX.OQ,Health Care
+1271,CSGS.OQ,Information Technology
+1272,CABO.N,Communication Services
+1273,DVA.N,Health Care
+1274,FNF.N,Financials
+1275,NSTG.OQ,Health Care
+1276,HSIC.OQ,Health Care
+1277,AVNS.N,Health Care
+1278,KDNY.OQ,Health Care
+1279,LTC.N,Real Estate
+1280,CPE.N,Energy
+1281,ALL.N,Financials
+1282,PTCT.OQ,Health Care
+1283,RGLD.OQ,Materials
+1284,PACB.OQ,Health Care
+1285,CCRN.OQ,Health Care
+1286,ODP.OQ,Consumer Discretionary
+1287,AEL.N,Financials
+1288,CDK.OQ,Information Technology
+1289,HST.OQ,Real Estate
+1290,CLH.N,Industrials
+1291,AWK.N,Utilities
+1292,SRC.N,Real Estate
+1293,ICAD.OQ,Health Care
+1294,TRNO.N,Real Estate
+1295,LSI.N,Real Estate
+1296,AXGN.OQ,Health Care
+1297,ORBC.OQ,Communication Services
+1298,STWD.N,Financials
+1299,ROG.N,Information Technology
+1300,LPLA.OQ,Financials
+1301,AMOT.OQ,Industrials
+1302,AMRS.OQ,Materials
+1303,MYRG.OQ,Industrials
+1304,ZNGA.OQ,Communication Services
+1305,LOPE.OQ,Consumer Discretionary
+1306,AEP.OQ,Utilities
+1307,NWN.N,Utilities
+1308,ALNY.OQ,Health Care
+1309,FOXF.OQ,Consumer Discretionary
+1310,MVIS.OQ,Information Technology
+1311,NOVT.OQ,Information Technology
+1312,SRE.N,Utilities
+1313,JEF.N,Financials
+1314,WTS.N,Industrials
+1315,AVD.N,Materials
+1316,ZTS.N,Health Care
+1317,SP.OQ,Industrials
+1318,WD.N,Financials
+1319,RNR.N,Financials
+1320,KE.OQ,Information Technology
+1321,RLJ.N,Real Estate
+1322,BCOV.OQ,Information Technology
+1323,GHC.N,Consumer Discretionary
+1324,CAR.OQ,Industrials
+1325,TPC.N,Industrials
+1326,NBIX.OQ,Health Care
+1327,BW.N,Industrials
+1328,MASI.OQ,Health Care
+1329,WYNN.OQ,Consumer Discretionary
+1330,MGPI.OQ,Consumer Staples
+1331,SWM.N,Materials
+1332,VER.N,Real Estate
+1333,PCRX.OQ,Health Care
+1334,DOC.N,Real Estate
+1335,NRZ.N,Financials
+1336,BRKR.OQ,Health Care
+1337,BLUE.OQ,Health Care
+1338,XEC.N,Energy
+1339,RYN.N,Real Estate
+1340,RRGB.OQ,Consumer Discretionary
+1341,HUBS.N,Information Technology
+1342,SBRA.OQ,Real Estate
+1343,CDW.OQ,Information Technology
+1344,THR.N,Industrials
+1345,SBGI.OQ,Communication Services
+1346,ADP.OQ,Information Technology
+1347,APTV.N,Consumer Discretionary
+1348,SABR.OQ,Information Technology
+1349,HWKN.OQ,Materials
+1350,VNDA.OQ,Health Care
+1351,UE.N,Real Estate
+1352,FMC.N,Materials
+1353,NVCR.OQ,Health Care
+1354,NPO.N,Industrials
+1355,FLOW.N,Industrials
+1356,CLR.N,Energy
+1357,PRAH.OQ,Health Care
+1358,REGI.OQ,Energy
+1359,REG.OQ,Real Estate
+1360,MWA.N,Industrials
+1361,COHR.OQ,Information Technology
+1362,NSA.N,Real Estate
+1363,DMRC.OQ,Information Technology
+1364,QCOM.OQ,Information Technology
+1365,PARR.N,Energy
+1366,AFMD.OQ,Health Care
+1367,ENSG.OQ,Health Care
+1368,LIVN.OQ,Health Care
+1369,TRGP.N,Energy
+1370,JLL.N,Real Estate
+1371,XNCR.OQ,Health Care
+1372,ACLS.OQ,Information Technology
+1373,NLY.N,Financials
+1374,ALTO.OQ,Energy
+1375,INN.N,Real Estate
+1376,EQC.N,Real Estate
+1377,VMC.N,Materials
+1378,IQV.N,Health Care
+1379,MDU.N,Utilities
+1380,TWO.N,Financials
+1381,ABC.N,Health Care
+1382,ALKS.OQ,Health Care
+1383,GLDD.OQ,Industrials
+1384,UFCS.OQ,Financials
+1385,CTRE.OQ,Real Estate
+1386,RRD.N,Industrials
+1387,PRU.N,Financials
+1388,WTI.N,Energy
+1389,APTS.N,Real Estate
+1390,KTOS.OQ,Industrials
+1391,BG.N,Consumer Staples
+1392,ESRT.N,Real Estate
+1393,CHEF.OQ,Consumer Staples
+1394,BC.N,Consumer Discretionary
+1395,BDC.N,Information Technology
+1396,WTM.N,Financials
+1397,LPI.N,Energy
+1398,AIG.N,Financials
+1399,RXN.N,Industrials
+1400,NYT.N,Communication Services
+1401,TMHC.N,Consumer Discretionary
+1402,AMSC.OQ,Industrials
+1403,HSTM.OQ,Health Care
+1404,MGNX.OQ,Health Care
+1405,LHCG.OQ,Health Care
+1406,HASI.N,Financials
+1407,MCF.A,Energy
+1408,INOV.OQ,Health Care
+1409,IAC.OQ,Communication Services
+1410,CRL.N,Health Care
+1411,EPR.N,Real Estate
+1412,MRO.N,Energy
+1413,IOSP.OQ,Materials
+1414,DNOW.N,Industrials
+1415,ARR.N,Financials
+1416,BAH.N,Industrials
+1417,QTWO.N,Information Technology
+1418,PRA.N,Financials
+1419,ANTM.N,Health Care
+1420,BLX.N,Financials
+1421,TTWO.OQ,Communication Services
+1422,BKH.N,Utilities
+1423,FB.OQ,Communication Services
+1424,EQIX.OQ,Real Estate
+1425,YELP.N,Communication Services
+1426,SCU.N,Financials
+1427,CEVA.OQ,Information Technology
+1428,TGNA.N,Communication Services
+1429,CF.N,Materials
+1430,REXR.N,Real Estate
+1431,PEGA.OQ,Information Technology
+1432,UVE.N,Financials
+1433,FRT.N,Real Estate
+1434,GDDY.N,Information Technology
+1435,QRVO.OQ,Information Technology
+1436,CNSL.OQ,Communication Services
+1437,CWST.OQ,Industrials
+1438,LNG.A,Energy
+1439,OVV.N,Energy
+1440,LXP.N,Real Estate
+1441,ATEX.OQ,Communication Services
+1442,CTT.N,Real Estate
+1443,LOCO.OQ,Consumer Discretionary
+1444,AAON.OQ,Industrials
+1445,CTMX.OQ,Health Care
+1446,AL.N,Industrials
+1447,TVTX.OQ,Health Care
+1448,TWOU.OQ,Consumer Discretionary
+1449,VIRX.OQ,Health Care
+1450,WLDN.OQ,Industrials
+1451,USPH.N,Health Care
+1452,STMP.OQ,Consumer Discretionary
+1453,HRC.N,Health Care
+1454,VRNS.OQ,Information Technology
+1455,ARCB.OQ,Industrials
+1456,NDLS.OQ,Consumer Discretionary
+1457,MNST.OQ,Consumer Staples
+1458,MHK.N,Consumer Discretionary
+1459,LNT.OQ,Utilities
+1460,TGI.N,Industrials
+1461,VIAC.OQ,Communication Services
+1462,AMN.N,Health Care
+1463,ASPN.N,Energy
+1464,CZR.OQ,Consumer Discretionary
+1465,PRDO.OQ,Consumer Discretionary
+1466,CSOD.OQ,Information Technology
+1467,OLED.OQ,Information Technology
+1468,SRG.N,Real Estate
+1469,SPXC.N,Industrials
+1470,SWKS.OQ,Information Technology
+1471,NFG.N,Utilities
+1472,PGTI.N,Industrials
+1473,ACRE.N,Financials
+1474,INGN.OQ,Health Care
+1475,DXC.N,Information Technology
+1476,BDX.N,Health Care
+1477,EOG.N,Energy
+1478,LGND.OQ,Health Care
+1479,YORW.OQ,Utilities
+1480,INSG.OQ,Information Technology
+1481,CG.OQ,Financials
+1482,CHTR.OQ,Communication Services
+1483,TXMD.OQ,Health Care
+1484,MUSA.N,Consumer Discretionary
+1485,JOE.N,Real Estate
+1486,MED.N,Consumer Staples
+1487,MRC.N,Industrials
+1488,ARW.N,Information Technology
+1489,WRLD.OQ,Financials
+1490,AMBC.N,Financials
+1491,CLVS.OQ,Health Care
+1492,ALG.N,Industrials
+1493,GERN.OQ,Health Care
+1494,PMT.N,Financials
+1495,CERS.OQ,Health Care
+1496,LAMR.OQ,Real Estate
+1497,SMG.N,Materials
+1498,OSTK.OQ,Consumer Discretionary
+1499,VCYT.OQ,Health Care
+1500,SHYF.OQ,Industrials
+1501,INGR.N,Consumer Staples
+1502,PRFT.OQ,Information Technology
+1503,TDY.N,Industrials
+1504,HII.N,Industrials
+1505,ANSS.OQ,Information Technology
+1506,UI.N,Information Technology
+1507,AMED.OQ,Health Care
+1508,STAA.OQ,Health Care
+1509,UEIC.OQ,Consumer Discretionary
+1510,ERII.OQ,Industrials
+1511,ANET.N,Information Technology
+1512,AHT.N,Real Estate
+1513,ECOM.N,Information Technology
+1514,QLYS.OQ,Information Technology
+1515,AMCX.OQ,Communication Services
+1516,PDCE.OQ,Energy
+1517,USCR.OQ,Materials
+1518,PWR.N,Industrials
+1519,AMH.N,Real Estate
+1520,HSC.N,Industrials
+1521,CPK.N,Utilities
+1522,CHD.N,Consumer Staples
+1523,PEN.N,Health Care
+1524,SBUX.OQ,Consumer Discretionary
+1525,FSLR.OQ,Information Technology
+1526,NUS.N,Consumer Staples
+1527,GNW.N,Financials
+1528,MPW.N,Real Estate
+1529,EPZM.OQ,Health Care
+1530,GPRO.OQ,Consumer Discretionary
+1531,XLRN.OQ,Health Care
+1532,FLDM.OQ,Health Care
+1533,MGEE.OQ,Utilities
+1534,AAWW.OQ,Industrials
+1535,GEO.N,Real Estate
+1536,ATSG.OQ,Industrials
+1537,PLUS.OQ,Information Technology
+1538,MGNI.OQ,Communication Services
+1539,KW.N,Real Estate
+1540,RMAX.N,Real Estate
+1541,BLL.N,Materials
+1542,JJSF.OQ,Consumer Staples
+1543,OGE.N,Utilities
+1544,MMI.N,Real Estate
+1545,IBP.N,Consumer Discretionary
+1546,ICPT.OQ,Health Care
+1547,MITK.OQ,Information Technology
+1548,MTD.N,Health Care
+1549,VIACA.OQ,Communication Services
+1550,EVC.N,Communication Services
+1551,CPSI.OQ,Health Care
+1552,ED.N,Utilities
+1553,SEM.N,Health Care
+1554,CARA.OQ,Health Care
+1555,FCPT.N,Real Estate
+1556,ELY.N,Consumer Discretionary
+1557,THG.N,Financials
+1558,WPC.N,Real Estate
+1559,THS.N,Consumer Staples
+1560,ACIW.OQ,Information Technology
+1561,KEX.N,Industrials
+1562,KAR.N,Industrials
+1563,GDEN.OQ,Consumer Discretionary
+1564,WW.OQ,Consumer Discretionary
+1565,NKTR.OQ,Health Care
+1566,ATRI.OQ,Health Care
+1567,IT.N,Information Technology
+1568,ATVI.OQ,Communication Services
+1569,LCTX.A,Health Care
+1570,LCII.N,Consumer Discretionary
+1571,VGR.N,Consumer Staples
+1572,KHC.OQ,Consumer Staples
+1573,HFC.N,Energy
+1574,DDD.N,Information Technology
+1575,LGFa.N,Communication Services
+1576,EFC.N,Financials
+1577,OEC.N,Materials
+1578,STAR.N,Real Estate
+1579,HMHC.OQ,Consumer Discretionary
+1580,CI.N,Health Care
+1581,BNFT.OQ,Information Technology
+1582,UUUU.A,Energy
+1583,PCTY.OQ,Information Technology
+1584,AGIO.OQ,Health Care
+1585,PFSI.N,Financials
+1586,CLDT.N,Real Estate
+1587,HCI.N,Financials
+1588,H.N,Consumer Discretionary
+1589,DCO.N,Industrials
+1590,PODD.OQ,Health Care
+1591,LVS.N,Consumer Discretionary
+1592,LADR.N,Financials
+1593,CRIS.OQ,Health Care
+1594,EVTC.N,Information Technology
+1595,COMM.OQ,Information Technology
+1596,TWI.N,Industrials
+1597,KMPR.N,Financials
+1598,INSM.OQ,Health Care
+1599,CBB.N,Communication Services
+1600,KOP.N,Materials
+1601,NHC.A,Health Care
+1602,SLCA.N,Energy
+1603,SFM.OQ,Consumer Staples
+1604,FEYE.OQ,Information Technology
+1605,IVR.N,Financials
+1606,MFA.N,Financials
+1607,FOSL.OQ,Consumer Discretionary
+1608,MDRX.OQ,Health Care
+1609,CLNE.OQ,Energy
+1610,HPP.N,Real Estate
+1611,STAG.N,Real Estate
+1612,RGEN.OQ,Health Care
+1613,GTS.N,Health Care
+1614,FLR.N,Industrials
+1615,PBH.N,Health Care
+1616,ROLL.OQ,Industrials
+1617,RVNC.OQ,Health Care
+1618,STOR.N,Real Estate
+1619,IRWD.OQ,Health Care
+1620,AXL.N,Consumer Discretionary
+1621,ACRS.OQ,Health Care
+1622,TROX.N,Materials
+1623,SGMS.OQ,Consumer Discretionary
+1624,NNN.N,Real Estate
+1625,APA.OQ,Energy
+1626,PNW.N,Utilities
+1627,CCOI.OQ,Communication Services
+1628,SPGI.N,Financials
+1629,GOGO.OQ,Communication Services
+1630,NVEE.OQ,Industrials
+1631,GSAT.A,Communication Services
+1632,MTZ.N,Industrials
+1633,FI.N,Energy
+1634,TRUE.OQ,Communication Services
+1635,CWENa.N,Utilities
+1636,DHC.OQ,Real Estate
+1637,MOGa.N,Industrials
+1638,FE.N,Utilities
+1639,SSP.OQ,Communication Services
+1640,GNK.N,Industrials
+1641,RLGY.N,Real Estate
+1642,MTX.N,Materials
+1643,PCG.N,Utilities
+1644,ESNT.N,Financials
+1645,UNVR.N,Industrials
+1646,EMN.N,Materials
+1647,COOP.OQ,Financials
+1648,AES.N,Utilities
+1649,ALT.OQ,Health Care
+1650,TR.N,Consumer Staples
+1651,REGN.OQ,Health Care
+1652,DUK.N,Utilities
+1653,TDS.N,Communication Services
+1654,HUM.N,Health Care
+1655,NWLI.OQ,Financials
+1656,QGEN.N,Health Care
+1657,DHT.N,Energy
+1658,NLOK.OQ,Information Technology
+1659,LIND.OQ,Consumer Discretionary
+1660,LDOS.N,Industrials
+1661,CNP.N,Utilities
+1662,LBRDA.OQ,Communication Services
+1663,MSGS.N,Communication Services
+1664,BLDR.OQ,Industrials
+1665,VIRT.OQ,Financials
+1666,LBRDK.OQ,Communication Services
+1667,AGO.N,Financials
+1668,USM.N,Communication Services
+1669,ACGL.OQ,Financials
+1670,AEE.N,Utilities
+1671,ESI.N,Materials
+1672,SJI.N,Utilities
+1673,BRKb.N,Financials
+1674,ALE.N,Utilities
+1675,XRAY.OQ,Health Care
+1676,NRC.OQ,Health Care
+1677,BCPC.OQ,Materials
+1678,ITT.N,Industrials
+1679,CWEN.N,Utilities
+1680,MSI.N,Information Technology
+1681,IOVA.OQ,Health Care
+1682,SPNT.N,Financials
+1683,JRVR.OQ,Financials
+1684,SSTK.N,Consumer Discretionary
+1685,TRUP.OQ,Financials
+1686,KOS.N,Energy
+1687,KELYA.OQ,Industrials
+1688,LSCC.OQ,Information Technology
+1689,EBS.N,Health Care
+1690,CUTR.OQ,Health Care
+1691,LYV.N,Communication Services
+1692,ARES.N,Financials
+1693,XHR.N,Real Estate
+1694,OPCH.OQ,Health Care
+1695,ANDE.OQ,Consumer Staples
+1696,HZNP.OQ,Health Care
+1697,AMC.N,Communication Services
+1698,MTEM.OQ,Health Care
+1699,PRAA.OQ,Financials
+1700,BCRX.OQ,Health Care
+1701,WRK.N,Materials
+1702,ZGNX.OQ,Health Care
+1703,OUT.N,Real Estate
+1704,CTSH.OQ,Information Technology
+1705,ALB.N,Materials
+1706,TRMB.OQ,Information Technology
+1707,HCKT.OQ,Information Technology
+1708,HALO.OQ,Health Care
+1709,MGM.N,Consumer Discretionary
+1710,ORA.N,Utilities
+1711,MAR.OQ,Consumer Discretionary
+1712,VCEL.OQ,Health Care
+1713,CLDX.OQ,Health Care
+1714,ACAD.OQ,Health Care
+1715,CIO.N,Real Estate
+1716,APEI.OQ,Consumer Discretionary
+1717,APPF.OQ,Information Technology
+1718,FOLD.OQ,Health Care
+1719,SWX.N,Utilities
+1720,ENV.N,Information Technology
+1721,LXFR.N,Industrials
+1722,WLTW.OQ,Financials
+1723,FATE.OQ,Health Care
+1724,IBOC.OQ,Financials
+1725,FANG.OQ,Energy
+1726,ADUS.OQ,Health Care
+1727,IFF.N,Materials
+1728,HLIO.OQ,Industrials
+1729,GRBK.OQ,Consumer Discretionary
+1730,MODN.N,Information Technology
+1731,OMF.N,Financials
+1732,NVTA.N,Health Care
+1733,ARNA.OQ,Health Care
+1734,PKI.N,Health Care
+1735,MATX.N,Industrials
+1736,LC.N,Financials
+1737,TGTX.OQ,Health Care
+1738,NWS.OQ,Communication Services
+1739,AUD.N,Communication Services
+1740,KRO.N,Materials
+1741,HAE.N,Health Care
+1742,DRNA.OQ,Health Care
+1743,CTSO.OQ,Health Care
+1744,CCXI.OQ,Health Care
+1745,CORE.OQ,Consumer Discretionary
+1746,FLXN.OQ,Health Care
+1747,CC.N,Materials
+1748,FICO.N,Information Technology
+1749,APLE.N,Real Estate
+1750,MXL.N,Information Technology
+1751,RARE.OQ,Health Care
+1752,OPK.OQ,Health Care
+1753,CHGG.N,Consumer Discretionary
+1754,EPAM.N,Information Technology
+1755,RAMP.N,Information Technology
+1756,NHI.N,Real Estate
+1757,SPNS.OQ,Information Technology
+1758,NVRO.N,Health Care
+1759,VSH.N,Information Technology
+1760,CMRX.OQ,Health Care
+1761,MCHP.OQ,Information Technology
+1762,ARDX.OQ,Health Care
+1763,KPTI.OQ,Health Care
+1764,ROK.N,Industrials
+1765,SHEN.OQ,Communication Services
+1766,PLUG.OQ,Industrials
+1767,NWSA.OQ,Communication Services
+1768,ALGN.OQ,Health Care
+1769,DVAX.OQ,Health Care
+1770,TREX.N,Industrials
+1771,BKNG.OQ,Consumer Discretionary
+1772,RWT.N,Financials
+1773,RBC.N,Industrials
+1774,NEWR.N,Information Technology
+1775,STE.N,Health Care
+1776,CDXS.OQ,Health Care
+1777,DOOR.N,Industrials
+1778,DEA.N,Real Estate
+1779,VPG.N,Information Technology
+1780,HHC.N,Real Estate
+1781,XPO.N,Industrials
+1782,ESGR.OQ,Financials
+1783,WLK.N,Materials
+1784,SATS.OQ,Information Technology
+1785,ISEE.OQ,Health Care
+1786,GTN.N,Communication Services
+1787,MBI.N,Financials
+1788,SIEN.OQ,Health Care
+1789,CVCO.OQ,Consumer Discretionary
+1790,OSBC.OQ,Financials
+1791,TBPH.OQ,Health Care
+1792,ENDP.OQ,Health Care
+1793,BX.N,Financials
+1794,DHI.N,Consumer Discretionary
+1795,HL.N,Materials
+1796,CVS.N,Health Care
+1797,TGH.N,Industrials
+1798,UVV.N,Consumer Staples
+1799,CRK.N,Energy
+1800,BTX.A,Communication Services
+1801,VEC.N,Industrials
+1802,G.N,Information Technology
+1803,SEAS.N,Consumer Discretionary
+1804,TRIP.OQ,Communication Services
+1805,NOG.A,Energy
+1806,TRC.N,Real Estate
+1807,JAZZ.OQ,Health Care
+1808,OLP.N,Real Estate
+1809,NPTN.N,Information Technology
+1810,VSAT.OQ,Information Technology
+1811,AMPH.OQ,Health Care
+1812,MYE.N,Materials
+1813,IPAR.OQ,Consumer Staples
+1814,GMED.N,Health Care
+1815,NXST.OQ,Communication Services
+1816,UMH.N,Real Estate
+1817,BBSI.OQ,Industrials
+1818,XXII.A,Consumer Staples
+1819,LPSN.OQ,Information Technology
+1820,CNK.N,Communication Services
+1821,EXPD.OQ,Industrials
+1822,GLPI.OQ,Real Estate
+1823,MODV.OQ,Health Care
+1824,LGIH.OQ,Consumer Discretionary
+1825,TCX.OQ,Information Technology
+1826,FGEN.OQ,Health Care
+1827,ATRO.OQ,Industrials
+1828,COKE.OQ,Consumer Staples
+1829,ASH.N,Materials
+1830,PFGC.N,Consumer Staples
+1831,PRIM.OQ,Industrials
+1832,QRTEA.OQ,Consumer Discretionary
+1833,W.N,Consumer Discretionary
+1834,CPA.N,Industrials
+1835,ITGR.N,Health Care
+1836,CCO.N,Communication Services
+1837,UGI.N,Utilities
+1838,NNI.N,Financials
+1839,ECPG.OQ,Financials
+1840,SHAK.N,Consumer Discretionary
+1841,AMRX.N,Health Care
+1842,OCUL.OQ,Health Care
+1843,TTGT.OQ,Communication Services
+1844,BLD.N,Consumer Discretionary
+1845,PRI.N,Financials
+1846,INO.OQ,Health Care
+1847,EGLE.OQ,Industrials
+1848,EGRX.OQ,Health Care
+1849,AXON.OQ,Industrials
+1850,NCLH.N,Consumer Discretionary
+1851,ATO.N,Utilities
+1852,SGRY.OQ,Health Care
+1853,IONS.OQ,Health Care
+1854,ATRS.OQ,Health Care
+1855,MEIP.OQ,Health Care
+1856,UHAL.OQ,Industrials
+1857,ENS.N,Industrials
+1858,ZIOP.OQ,Health Care
+1859,RPD.OQ,Information Technology
+1860,EVH.N,Health Care
+1861,SVC.OQ,Real Estate
+1862,CDNA.OQ,Health Care
+1863,KODK.N,Information Technology
+1864,ASXC.A,Health Care
+1865,CHRS.OQ,Health Care
+1866,VTRS.OQ,Health Care
+1867,WEN.OQ,Consumer Discretionary
+1868,TCS.N,Consumer Discretionary
+1869,RGNX.OQ,Health Care
+1870,VRTV.N,Industrials
+1871,GNL.N,Real Estate
+1872,ABR.N,Financials
+1873,OMER.OQ,Health Care
+1874,MLR.N,Industrials
+1875,BR.N,Information Technology
+1876,NTRA.OQ,Health Care
+1877,AGYS.OQ,Information Technology
+1878,GDOT.N,Financials
+1879,LUNA.OQ,Information Technology
+1880,HLIT.OQ,Information Technology
+1881,DZSI.OQ,Information Technology
+1882,SPWR.OQ,Information Technology
+1883,EBIX.OQ,Information Technology
+1884,XONE.OQ,Industrials
+1885,TTI.N,Energy
+1886,SRNE.OQ,Health Care
+1887,BCEI.N,Energy
+1888,ATEC.OQ,Health Care
+1889,MPAA.OQ,Consumer Discretionary
+1890,ICUI.OQ,Health Care
+1891,FOR.N,Real Estate
+1892,RDNT.OQ,Health Care
+1893,DOX.OQ,Information Technology
+1894,MNKD.OQ,Health Care
+1895,DRH.N,Real Estate
+1896,FC.N,Industrials
+1897,PGEN.OQ,Health Care
+1898,AGM.N,Financials
+1899,DISH.OQ,Communication Services
+1900,EVRI.N,Consumer Discretionary
+1901,MGLN.OQ,Health Care
+1902,QNST.OQ,Communication Services
+1903,BDSI.OQ,Health Care
+1904,SPNE.OQ,Health Care
+1905,ENR.N,Consumer Staples
+1906,NVAX.OQ,Health Care
+1907,FLO.N,Consumer Staples
+1908,DIOD.OQ,Information Technology
+1909,WK.N,Information Technology
+1910,APPS.OQ,Information Technology
+1911,AVID.OQ,Information Technology
+1912,CROX.OQ,Consumer Discretionary
+1913,DBRG.N,Real Estate
+1914,ATHX.OQ,Health Care
+1915,TTEC.OQ,Information Technology
+1916,ITCI.OQ,Health Care
+1917,PRTY.N,Consumer Discretionary
+1918,MMS.N,Information Technology
+1919,CSTM.N,Materials
+1920,RUN.OQ,Industrials
+1921,DIS.N,Communication Services
+1922,COLL.OQ,Health Care
+1923,PRGO.N,Health Care
+1924,CPRI.N,Consumer Discretionary
+1925,CHCT.N,Real Estate
+1926,VIVO.OQ,Health Care
+1927,AWH.OQ,Health Care
+1928,BLFS.OQ,Health Care
+1929,WIX.OQ,Information Technology
+1930,NVDA.OQ,Information Technology
+1931,RL.N,Consumer Discretionary
+1932,BRKS.OQ,Information Technology
+1933,DDS.N,Consumer Discretionary
+1934,EPC.N,Consumer Staples
+1935,BPMC.OQ,Health Care
+1936,JYNT.OQ,Health Care
+1937,GKOS.N,Health Care
+1938,MIDD.OQ,Industrials
+1939,MCRB.OQ,Health Care
+1940,VKTX.OQ,Health Care
+1941,CLFD.OQ,Information Technology
+1942,HEAR.OQ,Information Technology
+1943,PRMW.N,Consumer Staples
+1944,DAR.N,Consumer Staples
+1945,OCGN.OQ,Health Care
+1946,KSS.N,Consumer Discretionary
+1947,JWN.N,Consumer Discretionary
+1948,NXRT.N,Real Estate
+1949,VSTO.N,Consumer Discretionary
+1950,CSWI.OQ,Industrials
+1951,SLP.OQ,Health Care
+1952,REPX.A,Energy
+1953,NPK.N,Industrials
+1954,ALDX.OQ,Health Care
+1955,GEVO.OQ,Energy
+1956,MDGL.OQ,Health Care
+1957,TDG.N,Industrials
+1958,ACM.N,Industrials
+1959,WSC.OQ,Industrials
+1960,HLI.N,Financials
+1961,UNIT.OQ,Real Estate
+1962,PAR.N,Information Technology
+1963,DBD.N,Information Technology
+1964,WWD.OQ,Industrials
+1965,RIOT.OQ,Information Technology
+1966,SPPI.OQ,Health Care
+1967,STNG.N,Energy
+1968,RILY.OQ,Financials
+1969,GLOB.N,Information Technology
+1970,SESN.OQ,Health Care
+1971,ATOS.OQ,Health Care
+1972,MTSI.OQ,Information Technology
+1973,SR.N,Utilities
+1974,BZH.N,Consumer Discretionary
+1975,LAND.OQ,Real Estate
+1976,KLIC.OQ,Information Technology
+1977,ZBRA.OQ,Information Technology
+1978,SBH.N,Consumer Discretionary
+1979,SRDX.OQ,Health Care
+1980,HI.N,Industrials
+1981,GFF.N,Industrials
+1982,MTOR.N,Industrials
+1983,ARMK.N,Consumer Discretionary
+1984,NJR.N,Utilities
+1985,LQDT.OQ,Consumer Discretionary
+1986,MATW.OQ,Industrials
+1987,POST.N,Consumer Staples
+1988,HP.N,Energy
+1989,HAYN.OQ,Materials
+1990,NUAN.OQ,Information Technology
+1991,ENTA.OQ,Health Care
+1992,JACK.OQ,Consumer Discretionary
+1993,IGT.N,Consumer Discretionary
+1994,BECN.OQ,Industrials
+1995,TSN.N,Consumer Staples
+1996,HPE.N,Information Technology
+1997,TTEK.OQ,Industrials
+1998,SPB.N,Consumer Staples
+1999,J.N,Industrials
+2000,JCI.N,Industrials
+2001,MNR.N,Real Estate
+2002,ESE.N,Industrials
+2003,BERY.N,Materials
+2004,PSTG.N,Information Technology
+2005,CENTA.OQ,Consumer Staples
+2006,CENT.OQ,Consumer Staples
+2007,EMKR.OQ,Information Technology
+2008,IESC.OQ,Industrials
+2009,VERU.OQ,Consumer Staples
+2010,JOUT.OQ,Consumer Discretionary
+2011,BLBD.OQ,Industrials
+2012,RICK.OQ,Consumer Discretionary
+2013,ARWR.OQ,Health Care
+2014,SNEX.OQ,Financials
+2015,CVM.A,Health Care
+2016,RMR.OQ,Real Estate
+2017,IMKTA.OQ,Consumer Staples
+2018,NOTV.OQ,Health Care
+2019,SMBK.OQ,Financials
+2020,TEAM.OQ,Information Technology
+2021,SUPN.OQ,Health Care
+2022,KMB.N,Consumer Staples
+2023,FBMS.OQ,Financials
+2024,EQBK.OQ,Financials
+2025,AVNT.N,Materials
+2026,LFUS.OQ,Information Technology
+2027,ETN.N,Industrials
+2028,AVXL.OQ,Health Care
+2029,TDW.N,Energy
+2030,MIME.OQ,Information Technology
+2031,WBT.N,Industrials
+2032,NP.N,Materials
+2033,AGR.N,Utilities
+2034,SQ.N,Information Technology
+2035,HRTX.OQ,Health Care
+2036,EXEL.OQ,Health Care
+2037,FRO.N,Energy
+2038,UHS.N,Health Care
+2039,SNDX.OQ,Health Care
+2040,GCP.N,Materials
+2041,EDIT.OQ,Health Care
+2042,AKBA.OQ,Health Care
+2043,WKHS.OQ,Consumer Discretionary
+2044,TWNK.OQ,Consumer Staples
+2045,CPRX.OQ,Health Care
+2046,KALV.OQ,Health Care
+2047,RCKT.OQ,Health Care
+2048,HIG.N,Financials
+2049,NCBS.OQ,Financials
+2050,UA.N,Consumer Discretionary
+2051,ARCT.OQ,Health Care
+2052,AERI.OQ,Health Care
+2053,NGVT.N,Materials
+2054,SENS.A,Health Care
+2055,RRR.OQ,Consumer Discretionary
+2056,MRTX.OQ,Health Care
+2057,TELL.OQ,Energy
+2058,SITE.N,Industrials
+2059,CDEV.OQ,Energy
+2060,ALBO.OQ,Health Care
+2061,CDXC.OQ,Health Care
+2062,TPB.N,Consumer Staples
+2063,VRAY.OQ,Health Care
+2064,VBIV.OQ,Health Care
+2065,HAIN.OQ,Consumer Staples
+2066,VTGN.OQ,Health Care
+2067,GMS.N,Industrials
+2068,HONE.OQ,Financials
+2069,CNNE.N,Financials
+2070,FTV.N,Industrials
+2071,MSBI.OQ,Financials
+2072,NTLA.OQ,Health Care
+2073,RDUS.OQ,Health Care
+2074,KNSL.OQ,Financials
+2075,PI.OQ,Information Technology
+2076,KDMN.OQ,Health Care
+2077,TCMD.OQ,Health Care
+2078,TWLO.N,Information Technology
+2079,PRPL.OQ,Consumer Discretionary
+2080,ATKR.N,Industrials
+2081,HRI.N,Industrials
+2082,TPIC.OQ,Industrials
+2083,VRS.N,Materials
+2084,SYRS.OQ,Health Care
+2085,USFD.N,Consumer Staples
+2086,GMRE.N,Real Estate
+2087,PAVM.OQ,Health Care
+2088,SELB.OQ,Health Care
+2089,RETA.OQ,Health Care
+2090,FLWS.OQ,Consumer Discretionary
+2091,HOME.N,Consumer Discretionary
+2092,DELL.N,Information Technology
+2093,CSTR.OQ,Financials
+2094,AA.N,Materials
+2095,FBK.N,Financials
+2096,NTB.N,Financials
+2097,FHB.OQ,Financials
+2098,MEDP.OQ,Health Care
+2099,ARCH.N,Energy
+2100,IRTC.OQ,Health Care
+2101,DFIN.N,Financials
+2102,BL.OQ,Information Technology
+2103,ADNT.N,Consumer Discretionary
+2104,TRHC.OQ,Health Care
+2105,EVBG.OQ,Information Technology
+2106,PTGX.OQ,Health Care
+2107,ASIX.N,Materials
+2108,VVV.N,Materials
+2109,ELF.N,Consumer Staples
+2110,GOLF.N,Consumer Discretionary
+2111,FRTA.OQ,Materials
+2112,CWH.N,Consumer Discretionary
+2113,TTD.OQ,Information Technology
+2114,FLGT.OQ,Health Care
+2115,NTNX.OQ,Information Technology
+2116,COUP.OQ,Information Technology
+2117,LW.N,Consumer Staples
+2118,VREX.OQ,Health Care
+2119,ON.OQ,Information Technology
+2120,YUMC.N,Consumer Discretionary
+2121,ICHR.OQ,Information Technology
+2122,LGFb.N,Communication Services
+2123,ATOM.OQ,Information Technology
+2124,JELD.N,Industrials
+2125,ATH.N,Financials
+2126,INVH.N,Real Estate
+2127,CNDT.OQ,Information Technology
+2128,NEX.N,Energy
+2129,M.N,Consumer Discretionary
+2130,HGV.N,Consumer Discretionary
+2131,PK.N,Real Estate
+2132,ANAB.OQ,Health Care
+2133,REVG.N,Industrials
+2134,AXSM.OQ,Health Care
+2135,INSW.N,Energy
+2136,ORGO.OQ,Health Care
+2137,LAUR.OQ,Consumer Discretionary
+2138,PUMP.N,Energy
+2139,IIPR.N,Real Estate
+2140,GNUS.OQ,Consumer Discretionary
+2141,CADE.N,Financials
+2142,BTU.N,Energy
+2143,ARD.N,Materials
+2144,SNDR.N,Industrials
+2145,HCC.N,Materials
+2146,FND.N,Consumer Discretionary
+2147,VRRM.OQ,Information Technology
+2148,RCM.OQ,Health Care
+2149,CVNA.N,Consumer Discretionary
+2150,AYX.N,Information Technology
+2151,KREF.N,Financials
+2152,FBRX.OQ,Health Care
+2153,WTTR.N,Energy
+2154,URGN.OQ,Health Care
+2155,AKTS.OQ,Information Technology
+2156,OTRK.OQ,Health Care
+2157,YEXT.N,Information Technology
+2158,OKTA.OQ,Information Technology
+2159,CLDR.N,Information Technology
+2160,HLNE.OQ,Financials
+2161,SGH.OQ,Information Technology
+2162,SMPL.OQ,Consumer Staples
+2163,BY.N,Financials
+2164,SAFE.N,Real Estate
+2165,JHG.N,Financials
+2166,SOI.N,Energy
+2167,IR.N,Industrials
+2168,APPN.OQ,Information Technology
+2169,GPMT.N,Financials
+2170,BHF.OQ,Financials
+2171,TRTX.N,Financials
+2172,VST.N,Utilities
+2173,BVH.N,Consumer Discretionary
+2174,SAGE.OQ,Health Care
+2175,NLTX.OQ,Health Care
+2176,VSTM.OQ,Health Care
+2177,GTHX.OQ,Health Care
+2178,PLYM.N,Real Estate
+2179,ATUS.N,Communication Services
+2180,CARS.N,Communication Services
+2181,CELH.OQ,Consumer Staples
+2182,WOW.N,Communication Services
+2183,RDFN.OQ,Real Estate
+2184,JBGS.N,Real Estate
+2185,BOMN.OQ,Communication Services
+2186,VERI.OQ,Information Technology
+2187,CTXR.OQ,Health Care
+2188,PETQ.OQ,Health Care
+2189,ATNX.OQ,Health Care
+2190,MGY.N,Energy
+2191,MRSN.OQ,Health Care
+2192,NESR.OQ,Energy
+2193,BKI.N,Information Technology
+2194,MBIN.OQ,Financials
+2195,KIDS.OQ,Health Care
+2196,DD.N,Materials
+2197,ACEL.N,Consumer Discretionary
+2198,PQG.N,Materials
+2199,ROKU.OQ,Communication Services
+2200,CARG.OQ,Communication Services
+2201,DCPH.OQ,Health Care
+2202,FNKO.OQ,Consumer Discretionary
+2203,ALTR.OQ,Information Technology
+2204,SPRO.OQ,Health Care
+2205,IMXI.OQ,Information Technology
+2206,EYE.OQ,Consumer Discretionary
+2207,SWCH.N,Information Technology
+2208,CSSE.OQ,Communication Services
+2209,FUV.OQ,Consumer Discretionary
+2210,AQUA.N,Industrials
+2211,MDB.OQ,Information Technology
+2212,SFIX.OQ,Consumer Discretionary
+2213,CATC.OQ,Financials
+2214,MCB.N,Financials
+2215,CBTX.OQ,Financials
+2216,LBRT.N,Energy
+2217,CEIX.N,Energy
+2218,AVYA.N,Information Technology
+2219,GTES.N,Industrials
+2220,NMRK.OQ,Real Estate
+2221,BAND.OQ,Communication Services
+2222,MVBF.OQ,Financials
+2223,VICI.N,Real Estate
+2224,ILPT.OQ,Real Estate
+2225,LILAK.OQ,Communication Services
+2226,COLD.N,Real Estate
+2227,LILA.OQ,Communication Services
+2228,BRSP.N,Financials
+2229,MAXR.N,Industrials
+2230,CDLX.OQ,Communication Services
+2231,SAIL.N,Information Technology
+2232,BTAI.OQ,Health Care
+2233,QTRX.OQ,Health Care
+2234,WHD.N,Energy
+2235,ADT.N,Industrials
+2236,DNLI.OQ,Health Care
+2237,CUE.OQ,Health Care
+2238,AMEH.OQ,Health Care
+2239,COGT.OQ,Health Care
+2240,BLNK.OQ,Consumer Discretionary
+2241,REKR.OQ,Industrials
+2242,BFST.OQ,Financials
+2243,BWB.OQ,Financials
+2244,NVT.N,Industrials
+2245,CLBK.OQ,Financials
+2246,SPOT.N,Communication Services
+2247,CHX.OQ,Energy
+2248,CDAY.N,Information Technology
+2249,EAF.N,Industrials
+2250,AM.N,Energy
+2251,RCUS.N,Health Care
+2252,SIGA.OQ,Health Care
+2253,GSHD.OQ,Financials
+2254,PACK.N,Materials
+2255,INSP.N,Health Care
+2256,LASR.OQ,Information Technology
+2257,ESPR.OQ,Health Care
+2258,OSW.OQ,Consumer Discretionary
+2259,EQH.N,Financials
+2260,DBX.OQ,Information Technology
+2261,ROAD.OQ,Industrials
+2262,ZUO.N,Information Technology
+2263,ZS.OQ,Information Technology
+2264,RFL.N,Real Estate
+2265,SMAR.N,Information Technology
+2266,DOCU.OQ,Information Technology
+2267,FCBP.OQ,Financials
+2268,OBNK.OQ,Financials
+2269,STXB.OQ,Financials
+2270,WH.N,Consumer Discretionary
+2271,TENB.OQ,Information Technology
+2272,TBIO.OQ,Health Care
+2273,CWK.N,Real Estate
+2274,EVER.OQ,Communication Services
+2275,ARLO.N,Information Technology
+2276,GSKY.OQ,Information Technology
+2277,STIM.OQ,Health Care
+2278,VRT.N,Industrials
+2279,BV.N,Industrials
+2280,EPRT.N,Real Estate
+2281,AVLR.N,Information Technology
+2282,OPRX.OQ,Health Care
+2283,EVOP.OQ,Information Technology
+2284,CNST.OQ,Health Care
+2285,MGTX.OQ,Health Care
+2286,TALO.N,Energy
+2287,FOCS.OQ,Financials
+2288,EXPI.OQ,Real Estate
+2289,AFIN.OQ,Real Estate
+2290,SONO.OQ,Consumer Discretionary
+2291,IIIV.OQ,Information Technology
+2292,BRY.OQ,Energy
+2293,BHVN.N,Health Care
+2294,EOLS.OQ,Health Care
+2295,CRNX.OQ,Health Care
+2296,CPLG.N,Real Estate
+2297,RUBY.OQ,Health Care
+2298,BE.N,Industrials
+2299,SRRK.OQ,Health Care
+2300,HYRE.OQ,Industrials
+2301,BJ.N,Consumer Staples
+2302,DOMO.OQ,Information Technology
+2303,LOVE.OQ,Consumer Discretionary
+2304,AMTB.OQ,Financials
+2305,ACA.N,Industrials
+2306,SWI.N,Information Technology
+2307,YETI.N,Consumer Discretionary
+2308,ARVN.OQ,Health Care
+2309,LTHM.N,Materials
+2310,CLVT.N,Industrials
+2311,FTDR.OQ,Consumer Discretionary
+2312,ETRN.N,Energy
+2313,REZI.N,Industrials
+2314,UPWK.OQ,Industrials
+2315,ELAN.N,Health Care
+2316,BPYU.OQ,Real Estate
+2317,DMTK.OQ,Health Care
+2318,MNTV.OQ,Information Technology
+2319,HNGR.N,Health Care
+2320,EB.N,Communication Services
+2321,GH.OQ,Health Care
+2322,BNGO.OQ,Health Care
+2323,STRO.OQ,Health Care
+2324,SIBN.OQ,Health Care
+2325,GRTS.OQ,Health Care
+2326,AXNX.OQ,Health Care
+2327,RPAY.OQ,Information Technology
+2328,PLAN.N,Information Technology
+2329,STNE.OQ,Information Technology
+2330,ESTC.N,Information Technology
+2331,TWST.OQ,Health Care
+2332,BFC.OQ,Financials
+2333,AHCO.OQ,Health Care
+2334,MRNA.OQ,Health Care
+2335,GBT.OQ,Health Care
+2336,NRG.N,Utilities
+2337,CVET.OQ,Health Care
+2338,VAPO.N,Health Care
+2339,NFE.OQ,Energy
+2340,VLDR.OQ,Information Technology
+2341,TRIL.OQ,Health Care
+2342,BRMK.N,Financials
+2343,ALEC.OQ,Health Care
+2344,TW.OQ,Financials
+2345,SILK.OQ,Health Care
+2346,DOW.N,Materials
+2347,WTRE.OQ,Financials
+2348,PLMR.OQ,Financials
+2349,BYND.OQ,Consumer Staples
+2350,PINS.N,Communication Services
+2351,GOEV.OQ,Consumer Discretionary
+2352,PSN.N,Industrials
+2353,LYFT.OQ,Industrials
+2354,FOXA.OQ,Communication Services
+2355,TMDX.OQ,Health Care
+2356,SPCE.N,Industrials
+2357,FOX.OQ,Communication Services
+2358,UBER.N,Industrials
+2359,KTB.N,Consumer Discretionary
+2360,PAE.OQ,Industrials
+2361,LPRO.OQ,Financials
+2362,VVNT.N,Consumer Discretionary
+2363,GDYN.OQ,Information Technology
+2364,SWAV.OQ,Health Care
+2365,OCX.OQ,Health Care
+2366,BALY.N,Consumer Discretionary
+2367,MNRL.N,Energy
+2368,NGM.OQ,Health Care
+2369,ALTG.N,Industrials
+2370,DTIL.OQ,Health Care
+2371,ZM.OQ,Information Technology
+2372,PD.N,Information Technology
+2373,DT.N,Information Technology
+2374,AVTR.N,Health Care
+2375,SPFI.OQ,Financials
+2376,NOVA.N,Utilities
+2377,NKLA.OQ,Industrials
+2378,IAA.N,Industrials
+2379,AMK.N,Financials
+2380,FSLY.N,Information Technology
+2381,KRTX.OQ,Health Care
+2382,CTVA.N,Materials
+2383,IHRT.OQ,Communication Services
+2384,PSNL.OQ,Health Care
+2385,CHNG.OQ,Health Care
+2386,REAL.OQ,Consumer Discretionary
+2387,CSTL.OQ,Health Care
+2388,ADPT.OQ,Health Care
+2389,MORF.OQ,Health Care
+2390,STOK.OQ,Health Care
+2391,GO.OQ,Consumer Staples
+2392,CMBM.OQ,Information Technology
+2393,HCAT.OQ,Health Care
+2394,RVLV.N,Consumer Discretionary
+2395,XPEL.OQ,Consumer Discretionary
+2396,CLPT.OQ,Health Care
+2397,DKNG.OQ,Consumer Discretionary
+2398,FREE.OQ,Consumer Staples
+2399,AMCR.N,Materials
+2400,CRWD.OQ,Information Technology
+2401,MDLA.N,Information Technology
+2402,PHR.N,Health Care
+2403,WORK.N,Information Technology
+2404,CFB.OQ,Financials
+2405,MCBS.OQ,Financials
+2406,ALRS.OQ,Financials
+2407,NVST.N,Health Care
+2408,APLS.OQ,Health Care
+2409,MTCH.OQ,Communication Services
+2410,PING.N,Information Technology
+2411,PGNY.OQ,Health Care
+2412,BBIO.OQ,Health Care
+2413,PTON.OQ,Consumer Discretionary
+2414,NET.N,Information Technology
+2415,MRNS.OQ,Health Care
+2416,STXS.A,Health Care
+2417,VIR.OQ,Health Care
+2418,RCEL.OQ,Health Care
+2419,DDOG.OQ,Information Technology
+2420,OPRT.OQ,Financials
+2421,TXG.OQ,Health Care
+2422,PNTG.OQ,Health Care
+2423,IDYA.OQ,Health Care
+2424,TPTX.OQ,Health Care
+2425,BRP.OQ,Financials
+2426,CRNC.OQ,Information Technology
+2427,RAPT.OQ,Health Care
+2428,BRBR.N,Consumer Staples
+2429,SFT.OQ,Consumer Discretionary
+2430,SI.N,Financials
+2431,BRBS.A,Financials
+2432,SMCI.OQ,Information Technology
+2433,SITM.OQ,Information Technology
+2434,BILL.N,Information Technology
+2435,ONEW.OQ,Consumer Discretionary
+2436,REYN.OQ,Consumer Staples
+2437,CLSK.OQ,Information Technology
+2438,PPD.OQ,Health Care
+2439,SPT.OQ,Information Technology
+2440,ONEM.OQ,Health Care
+2441,YMAB.OQ,Health Care
+2442,RVMD.OQ,Health Care
+2443,SDGR.OQ,Health Care
+2444,PAYA.OQ,Information Technology
+2445,TTCF.OQ,Consumer Staples
+2446,FRG.OQ,Consumer Discretionary
+2447,DM.N,Industrials
+2448,BEAM.OQ,Health Care
+2449,CURI.OQ,Communication Services
+2450,GNOG.OQ,Consumer Discretionary
+2451,GRWG.OQ,Consumer Discretionary
